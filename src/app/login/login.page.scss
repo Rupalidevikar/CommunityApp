@@ -1,0 +1,26 @@
+.head{
+    border-bottom: 5px tomato;
+    
+}
+.header_color{
+    --ion-background-color : rgba(182, 96, 170, 0.795);
+    color: aliceblue;
+  }
+
+  .back_color{
+    --background: linear-gradient(197deg, rgb(187, 121, 171) 0%, rgb(187, 119, 176) 13.5%, rgb(142, 78, 143) 43.33%, rgb(132, 66, 138) 43.33%);
+      
+    
+}
+
+.send_center{
+   
+    margin-inline-start: auto;
+    margin-inline-end: 50px;
+
+    --ion-color-primary: rgb(149, 96, 180);
+}
+.textbox_style{
+    --ion-background-color :  rgb(242, 247, 245);
+    --border-radius : 20px;
+}
